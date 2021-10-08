@@ -1,0 +1,31 @@
+::ng-deep h3{
+    font-style: italic;
+}
+
+::ng-deep .hello{
+    color: green;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+/* .ui-jqgrid tr.jqgrow td{
+    height: 5rem !important;
+} */
+/* 
+.ui-jqgrid tr.jqgrow td {
+    font-weight: normal; 
+    overflow: hidden; 
+    white-space: nowrap; 
+    height: 22px; 
+    padding: 0 2px 0 2px;
+    border-bottom-width: 1px; 
+    border-bottom-color: inherit; 
+    border-bottom-style: solid;
+} */
+
+.column {
+    background-color: #034FCD;
+    color: white;
+    font-weight: bold;
+}
